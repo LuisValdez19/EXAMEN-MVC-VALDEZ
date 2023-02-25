@@ -2,7 +2,7 @@
 # DOCUMENTACIÓN DE MI CRUD MVC
 ### LUIS FERNANDO ESPINOZA VALDEZ 5 "A"
 
-Este MVC se se realizo para una mejor comprensión de codigo y asi nuestro codigo esten separados por archivos y carpetas como ya lo vimos en clase, esto nos beneficia mucho ya que lo que hacemos es separar la lógica de la aplicación en tres partes que es en Modelo, en VIsta y Controlador.
+Este MVC se se realizo con el fin de una mejor comprensión de codigo y asi nuestro codigo esten separados por archivos y carpetas como ya lo vimos en clase, esto nos beneficia mucho ya que lo que hacemos es separar la lógica de la aplicación en tres partes que es en Modelo, en VIsta y Controlador.
 
 ## ENTORNO DE DESARROLLO 
 
